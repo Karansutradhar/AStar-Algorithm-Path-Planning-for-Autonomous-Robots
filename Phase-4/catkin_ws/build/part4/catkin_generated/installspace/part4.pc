@@ -1,0 +1,8 @@
+prefix=/home/brian/catkin_ws/install
+
+Name: part4
+Description: Description of part4
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
